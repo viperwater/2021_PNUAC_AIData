@@ -1,0 +1,390 @@
+[
+    {
+        "number": 1,
+        "name": "안녕하세요",
+        "root": "hi"
+    },
+    {
+        "number": 2,
+        "name": "무엇",
+        "root": "what"
+    },
+    {
+        "number": 3,
+        "name": "고기",
+        "root": "meat"
+    },
+    {
+        "number": 4,
+        "name": "비빔밥",
+        "root": "bi bim rice"
+    },
+    {
+        "number": 5,
+        "name": "기쁜",
+        "root": "glad"
+    },
+    {
+        "number": 6,
+        "name": "취미",
+        "root": "hobby"
+    },
+    {
+        "number": 7,
+        "name": "나",
+        "root": "me"
+    },
+    {
+        "number": 8,
+        "name": "영화",
+        "root": "movie"
+    },
+    {
+        "number": 9,
+        "name": "얼굴",
+        "root": "face"
+    },
+    {
+        "number": 10,
+        "name": "보다",
+        "root": "see"
+    },
+    {
+        "number": 11,
+        "name": "이름",
+        "root": "name"
+    },
+    {
+        "number": 12,
+        "name": "읽다",
+        "root": "read"
+    },
+    {
+        "number": 13,
+        "name": "감사",
+        "root": "thank"
+    },
+    {
+        "number": 14,
+        "name": "같은",
+        "root": "equal"
+    },
+    {
+        "number": 15,
+        "name": "미안해",
+        "root": "sorry"
+    },
+    {
+        "number": 16,
+        "name": "먹다",
+        "root": "eat"
+    },
+    {
+        "number": 17,
+        "name": "좋은",
+        "root": "fine"
+    },
+    {
+        "number": 18,
+        "name": "노력하다",
+        "root": "do effort"
+    },
+    {
+        "number": 19,
+        "name": "다음",
+        "root": "next"
+    },
+    {
+        "number": 20,
+        "name": "나이",
+        "root": "age"
+    },
+    {
+        "number": 21,
+        "name": "다시",
+        "root": "again"
+    },
+    {
+        "number": 22,
+        "name": "몇 개",
+        "root": "how many"
+    },
+    {
+        "number": 23,
+        "name": "일",
+        "root": "day"
+    },
+    {
+        "number": 24,
+        "name": "좋다",
+        "root": "good, nice"
+    },
+    {
+        "number": 25,
+        "name": "언제",
+        "root": "when"
+    },
+    {
+        "number": 26,
+        "name": "우리",
+        "root": "we"
+    },
+    {
+        "number": 27,
+        "name": "지하철",
+        "root": "subway"
+    },
+    {
+        "number": 28,
+        "name": "친근한",
+        "root": "friendly"
+    },
+    {
+        "number": 29,
+        "name": "버스",
+        "root": "bus"
+    },
+    {
+        "number": 30,
+        "name": "타다",
+        "root": "ride"
+    },
+    {
+        "number": 31,
+        "name": "휴대폰",
+        "root": "cell phone"
+    },
+    {
+        "number": 32,
+        "name": "어디",
+        "root": "where"
+    },
+    {
+        "number": 33,
+        "name": "번호",
+        "root": "number"
+    },
+    {
+        "number": 34,
+        "name": "위치",
+        "root": "location"
+    },
+    {
+        "number": 35,
+        "name": "안내하다",
+        "alias": ["가이드"],
+        "root": "guide"
+    },
+    {
+        "number": 36,
+        "name": "책임",
+        "root": "responsibility"
+    },
+    {
+        "number": 37,
+        "name": "누구",
+        "root": "who"
+    },
+    {
+        "number": 38,
+        "name": "도착하다",
+        "root": "arrive"
+    },
+    {
+        "number": 39,
+        "name": "가족",
+        "root": "family"
+    },
+    {
+        "number": 40,
+        "name": "시간",
+        "root": "time"
+    },
+    {
+        "number": 41,
+        "name": "소개",
+        "root": "introduction"
+    },
+    {
+        "number": 42,
+        "name": "받다",
+        "root": "recieve"
+    },
+    {
+        "number": 43,
+        "name": "부탁하다",
+        "alias": ["제발?","부디"],
+        "root": "please?"
+    },
+    {
+        "number": 44,
+        "name": "걷다",
+        "root": "walk"
+    },
+    {
+        "number": 45,
+        "name": "부모님",
+        "root": "parents"
+    },
+    {
+        "number": 46,
+        "name": "10분",
+        "root": "10 minutes"
+    },
+    {
+        "number": 47,
+        "name": "누나",
+        "root": "sister"
+    },
+    {
+        "number": 48,
+        "name": "공부하다",
+        "root": "study"
+    },
+    {
+        "number": 49,
+        "name": "인간",
+        "root": "human"
+    },
+    {
+        "number": 50,
+        "name": "지금",
+        "root": "now"
+    },
+    {
+        "number": 51,
+        "name": "특별한",
+        "root": "special"
+    },
+    {
+        "number": 52,
+        "name": "어제",
+        "root": "yesterday"
+    },
+    {
+        "number": 53,
+        "name": "교육",
+        "root": "education"
+    },
+    {
+        "number": 54,
+        "name": "시험하다",
+        "root": "test"
+    },
+    {
+        "number": 55,
+        "name": "끝",
+        "root": "end"
+    },
+    {
+        "number": 56,
+        "name": "당신",
+        "root": "you"
+    },
+    {
+        "number": 57,
+        "name": "걱정하다",
+        "alias": ["~에 대해 걱정하는"],
+        "root": "worried_about"
+    },
+    {
+        "number": 58,
+        "name": "결혼하다",
+        "root": "marry"
+    },
+    {
+        "number": 59,
+        "name": "영향을 미치다",
+        "root": "effort"
+    },
+    {
+        "number": 60,
+        "name": "아니",
+        "root": "no"
+    },
+    {
+        "number": 61,
+        "name": "땀",
+        "root": "sweat"
+    },
+    {
+        "number": 62,
+        "name": "아직",
+        "root": "yet"
+    },
+    {
+        "number": 63,
+        "name": "마침내",
+        "root": "finally"
+    },
+    {
+        "number": 64,
+        "name": "태어나다",
+        "root": "born"
+    },
+    {
+        "number": 65,
+        "name": "성공",
+        "root": "success"
+    },
+    {
+        "number": 66,
+        "name": "호의",
+        "root": "favor"
+    },
+    {
+        "number": 67,
+        "name": "서울",
+        "root": "Seoul"
+    },
+    {
+        "number": 68,
+        "name": "저녁",
+        "root": "dinner"
+    },
+    {
+        "number": 69,
+        "name": "경험",
+        "root": "experience"
+    },
+    {
+        "number": 70,
+        "name": "초대하다",
+        "root": "invite"
+    },
+    {
+        "number": 71,
+        "name": "음식",
+        "root": "food"
+    },
+    {
+        "number": 72,
+        "name": "원하다",
+        "root": "want"
+    },
+    {
+        "number": 73,
+        "name": "방문하다",
+        "root": "visit"
+    },
+    {
+        "number": 74,
+        "name": "한 시간",
+        "root": "one hour"
+    },
+    {
+        "number": 75,
+        "name": "멀리",
+        "root": "far"
+    },
+    {
+        "number": 76,
+        "name": "좋은",
+        "root": "good"
+    },
+    {
+        "number": 77,
+        "name": "돌보다",
+        "root": "care"
+    }
+]
